@@ -1,5 +1,5 @@
 
-Olá! Eu me chamo Sofia e quero registrar aqui tanto meus projetos e códigos desenvolvidos para a faculdade, quanto projetos pessoais!
+Olá! Eu me chamo Sofia e quero registrar aqui tanto meus projetos e códigos desenvolvidos para a faculdade quanto meus projetos pessoais!
 
 [![card](https://github-readme-stats.vercel.app/api?username=Sofia&theme=cobalt&show_icons=true)](https://github.com/sofiagazolla/github-readme-stats) [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Sofiacode&theme=cobalt&layout=compact)](https://github.com/sofiagazolla/github-readme-stats)
 
