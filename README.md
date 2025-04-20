@@ -15,7 +15,6 @@ Olá! Eu me chamo Sofia e quero registrar aqui tanto meus projetos e códigos de
   </a>
 </div>
 
-### Languages and Tools:
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -23,4 +22,8 @@ Olá! Eu me chamo Sofia e quero registrar aqui tanto meus projetos e códigos de
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
+  <a href="https://www.vhdl.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vhdl/vhdl-original.svg" alt="vhdl" width="40" height="40"/>
+  </a>
 </p>
+
