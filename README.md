@@ -15,9 +15,10 @@ Olá! Eu me chamo Sofia e quero registrar aqui tanto meus projetos e códigos de
   </a>
 </div>
 
-![Python](https://img.shields.io/badge/language-Python-blue)
-![Java](https://img.shields.io/badge/language-Java-red)
-![VHDL](https://img.shields.io/badge/language-VHDL-yellow)
+
+![Python](https://img.shields.io/badge/python-3.x-blue?style=for-the-badge&logo=python&logoColor=ffd43b)
+![Java](https://img.shields.io/badge/java-17-red?style=for-the-badge&logo=java&logoColor=ffffff)
+![VHDL](https://img.shields.io/badge/VHDL-2008-yellow?style=for-the-badge&logo=vhdl&logoColor=black)
 
 
 
