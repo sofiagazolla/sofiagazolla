@@ -1,3 +1,4 @@
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=24&pause=1000&color=FF79C6&center=true&vCenter=true&width=435&lines=Hello+World+🌍" alt="Typing SVG" />
 
 Olá! Eu me chamo Sofia e quero registrar aqui tanto meus projetos e códigos desenvolvidos para a faculdade quanto meus projetos pessoais!
 
