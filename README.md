@@ -3,7 +3,7 @@
 </p>
 
 
-Hello! I'm Sofia, a Computer Science undergraduate student at the Federal University of Santa Catarina. Here you'll find code and projects I've worked on for university as well as my own personal developments.
+<sub>Hello! I'm Sofia, a Computer Science undergraduate student at the Federal University of Santa Catarina. Here you'll find code and projects I've worked on for university as well as my own personal developments.
 ---
 
 ### 🛠️ Languages and Tools
