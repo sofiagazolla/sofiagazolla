@@ -10,17 +10,10 @@ Hello! I'm Sofia, a Computer Science undergraduate student at the Federal Univer
 ### 🛠️ Languages and Tools
 
 <p align="center">
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/VHDL" target="_blank">
-    <img src="https://img.icons8.com/external-outline-juicy-fish/60/ffffff/chip.png" alt="vhdl" width="40" height="40"/>
-  </a>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/java-%23007ACC.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/vhdl-%23A91D33.svg?style=for-the-badge&logoColor=white" alt="VHDL" />
 </p>
-
 
 ---
 
