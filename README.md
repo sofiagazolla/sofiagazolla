@@ -23,6 +23,14 @@ Hello! I'm Sofia, a Computer Science undergraduate student at the Federal Univer
 
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiagazolla&layout=compact&theme=radical" alt="Top Langs"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sofiagazolla&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sofiagazolla&theme=radical" />
 </p>
 
