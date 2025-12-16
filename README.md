@@ -15,6 +15,7 @@ Hello! I'm Sofia, a Computer Science undergraduate student at the Federal Univer
   <img src="https://img.shields.io/badge/vhdl-%23A91D33.svg?style=for-the-badge&logoColor=white" alt="VHDL" />
   <img src="https://img.shields.io/badge/assembly-6E4C13?style=for-the-badge&logoColor=white" alt="Assembly" />
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
 </p>
 
 ---
