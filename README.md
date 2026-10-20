@@ -1,6 +1,6 @@
-<p align="center" style="background-color: #141321; padding: 20px; border-radius: 10px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=24&pause=1000&color=FF79C6&center=true&vCenter=true&width=435&lines=Hello%2C+World!+🌍" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:7C4DFF,100:071F6B&section=header&reversal=true&text=Hello%2C%20I%27m%20Sofia%21&textBg=false&fontSize=29&fontAlign=50&fontAlignY=44&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=43&fontFamily=Nunito&fontColor=FFFFFF" />
+</div>
 
 
 Hello! I'm Sofia, a Computer Science undergraduate student at the Federal University of Santa Catarina. Here you'll find codes and projects I've worked on for university as well as my own personal developments.
